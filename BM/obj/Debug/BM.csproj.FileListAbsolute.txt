@@ -1,0 +1,10 @@
+C:\Users\ns1223\source\repos\BM\BM\obj\Debug\BM.csprojAssemblyReference.cache
+C:\Users\ns1223\source\repos\BM\BM\obj\Debug\BM.Form1.resources
+C:\Users\ns1223\source\repos\BM\BM\obj\Debug\BM.Properties.Resources.resources
+C:\Users\ns1223\source\repos\BM\BM\obj\Debug\BM.csproj.GenerateResource.cache
+C:\Users\ns1223\source\repos\BM\BM\obj\Debug\BM.csproj.CoreCompileInputs.cache
+C:\Users\ns1223\source\repos\BM\BM\bin\Debug\BM.exe.config
+C:\Users\ns1223\source\repos\BM\BM\bin\Debug\BM.exe
+C:\Users\ns1223\source\repos\BM\BM\bin\Debug\BM.pdb
+C:\Users\ns1223\source\repos\BM\BM\obj\Debug\BM.exe
+C:\Users\ns1223\source\repos\BM\BM\obj\Debug\BM.pdb
